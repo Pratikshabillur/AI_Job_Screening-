@@ -1,0 +1,639 @@
+2025-04-10 22:15:33,194 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-10 22:15:33,195 - INFO: Database file size: 12288 bytes
+2025-04-10 22:15:33,204 - INFO: Successfully loaded 3 candidate matches
+2025-04-10 22:15:59,039 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-10 22:15:59,040 - INFO: Database file size: 12288 bytes
+2025-04-10 22:15:59,044 - INFO: Successfully loaded 3 candidate matches
+2025-04-10 23:15:39,773 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-10 23:15:39,774 - INFO: Database file size: 12288 bytes
+2025-04-10 23:15:39,798 - INFO: Successfully loaded 3 candidate matches
+2025-04-10 23:57:16,937 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-10 23:57:16,940 - INFO: Database file size: 12288 bytes
+2025-04-10 23:57:16,956 - INFO: Successfully loaded 3 candidate matches
+2025-04-10 23:57:21,056 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-10 23:57:21,057 - INFO: Database file size: 12288 bytes
+2025-04-10 23:57:21,059 - INFO: Successfully loaded 3 candidate matches
+2025-04-10 23:57:24,056 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-10 23:57:24,056 - INFO: Database file size: 12288 bytes
+2025-04-10 23:57:24,058 - INFO: Successfully loaded 3 candidate matches
+2025-04-10 23:57:24,102 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-10 23:57:24,154 - INFO: Database file size: 12288 bytes
+2025-04-10 23:57:24,158 - INFO: Successfully loaded 3 candidate matches
+2025-04-10 23:57:26,053 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-10 23:57:26,054 - INFO: Database file size: 12288 bytes
+2025-04-10 23:57:26,056 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 09:33:13,890 - ERROR: Lottie animation file not found: C:\Users\megha\Downloads\hack\assets\success.json
+2025-04-11 09:33:13,891 - ERROR: Unexpected error loading Lottie animation: Lottie animation file not found: C:\Users\megha\Downloads\hack\assets\success.json
+2025-04-11 09:57:25,968 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 09:57:25,969 - INFO: Database file size: 12288 bytes
+2025-04-11 09:57:25,977 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 09:58:11,099 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 09:58:11,100 - INFO: Database file size: 12288 bytes
+2025-04-11 09:58:11,102 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:22:50,324 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:22:50,338 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:36:33,288 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:36:33,302 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:36:35,842 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:36:35,849 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:37:23,072 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:37:23,077 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:37:38,004 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:37:38,009 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:44:31,053 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:44:31,056 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:44:31,084 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:44:31,087 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:44:45,498 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:44:45,500 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:44:45,526 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:44:45,529 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:47:27,429 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:47:27,431 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:47:27,457 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:47:27,459 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:51:52,920 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:51:52,923 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:51:52,948 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:51:52,951 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:51:56,052 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:51:56,054 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:51:56,084 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:51:56,086 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:55:49,394 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:55:49,396 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:55:49,425 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:55:49,427 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:58:12,714 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:58:12,717 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:58:12,743 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:58:12,744 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:58:35,501 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:58:35,503 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:58:35,527 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:58:35,529 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:59:54,588 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:59:54,592 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 10:59:54,620 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 10:59:54,623 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 11:09:52,087 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 11:09:52,090 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 11:09:52,118 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 11:09:52,122 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 11:13:41,958 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 11:13:41,963 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 11:13:41,992 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 11:13:41,994 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 11:14:07,638 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 11:14:07,641 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 11:14:07,670 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 11:14:07,674 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:12:29,832 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:12:29,852 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:12:43,342 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:12:43,350 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:13:32,938 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:13:32,940 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:13:51,445 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:13:51,459 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:14:04,439 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:14:04,444 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:15:06,393 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:15:06,395 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:15:09,545 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:15:09,547 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:16:45,206 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:16:45,348 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:16:49,204 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:16:49,208 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:16:50,488 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:16:50,490 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:16:51,787 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:16:51,789 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:16:52,844 - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-2099' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at C:\Users\megha\Downloads\hack\venv\Lib\site-packages\tornado\websocket.py:1086> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\streamlit\web\bootstrap.py", line 347, in run
+    if asyncio.get_running_loop().is_running():
+       ~~~~~~~~~~~~~~~~~~~~~~~~^^
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\tornado\websocket.py", line 1088, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\tornado\websocket.py", line 1090, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2025-04-11 16:16:52,976 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:16:52,978 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:16:54,192 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:16:54,194 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:16:55,290 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:16:55,293 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:16:56,304 - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-2170' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at C:\Users\megha\Downloads\hack\venv\Lib\site-packages\tornado\websocket.py:1086> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\streamlit\web\bootstrap.py", line 347, in run
+    if asyncio.get_running_loop().is_running():
+       ~~~~~~~~~~~~~~~~~~~~~~~~^^
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\tornado\websocket.py", line 1088, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\tornado\websocket.py", line 1090, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2025-04-11 16:16:56,432 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:16:56,435 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:16:58,641 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:16:58,643 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:17:01,620 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:17:01,622 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:17:02,615 - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-2287' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at C:\Users\megha\Downloads\hack\venv\Lib\site-packages\tornado\websocket.py:1086> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\streamlit\web\bootstrap.py", line 347, in run
+    if asyncio.get_running_loop().is_running():
+       ~~~~~~~~~~~~~~~~~~~~~~~~^^
+RuntimeError: no running event loop
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\tornado\websocket.py", line 1088, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\tornado\websocket.py", line 1090, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2025-04-11 16:17:14,079 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:17:14,082 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 16:17:19,219 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 16:17:19,255 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 18:23:14,014 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:23:14,015 - INFO: Database file size: 12288 bytes
+2025-04-11 18:23:14,030 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 18:37:12,939 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:37:12,946 - INFO: Database file size: 12288 bytes
+2025-04-11 18:37:13,107 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 18:39:22,216 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:39:22,221 - INFO: Database file size: 12288 bytes
+2025-04-11 18:39:22,308 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 18:42:04,423 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:42:04,424 - INFO: Database file size: 12288 bytes
+2025-04-11 18:42:04,433 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 18:44:25,136 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:44:25,136 - INFO: Database file size: 12288 bytes
+2025-04-11 18:44:25,140 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 18:47:03,206 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:47:03,206 - INFO: Database file size: 12288 bytes
+2025-04-11 18:47:03,209 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 18:47:03,244 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'candidate_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 177, in main
+    display_score_results(candidates_df)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\megha\Downloads\hack\app.py", line 125, in display_score_results
+    st.write(f"**Candidate ID:** {row['candidate_id']}")
+                                  ~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'candidate_id'
+2025-04-11 18:49:23,489 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:49:23,491 - ERROR: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 18:49:23,492 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: candidate_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 145, in load_candidate_matches
+    df = pd.read_sql_query("SELECT candidate_id, candidate_name, match_score FROM candidate_matches", conn)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype_backend=dtype_backend,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 175, in main
+    candidates_df = load_candidate_matches()
+  File "C:\Users\megha\Downloads\hack\app.py", line 160, in load_candidate_matches
+    raise RuntimeError(f"Unexpected error loading database: {e}")
+RuntimeError: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 18:52:58,796 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:52:58,798 - ERROR: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 18:52:58,799 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: candidate_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 145, in load_candidate_matches
+    df = pd.read_sql_query("SELECT candidate_id, candidate_name, match_score FROM candidate_matches", conn)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype_backend=dtype_backend,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 191, in main
+    candidates_df = load_candidate_matches()
+  File "C:\Users\megha\Downloads\hack\app.py", line 160, in load_candidate_matches
+    raise RuntimeError(f"Unexpected error loading database: {e}")
+RuntimeError: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 18:53:24,793 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:53:24,794 - INFO: Database file size: 12288 bytes
+2025-04-11 18:53:24,796 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 18:53:24,826 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'candidate_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 178, in main
+    display_score_results(candidates_df)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\megha\Downloads\hack\app.py", line 125, in display_score_results
+    st.write(f"**Candidate ID:** {row['candidate_id']}")
+                                  ~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'candidate_id'
+2025-04-11 18:54:56,405 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:54:56,406 - INFO: Database file size: 12288 bytes
+2025-04-11 18:54:56,408 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 18:54:56,440 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'candidate_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 178, in main
+    display_score_results(candidates_df)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\megha\Downloads\hack\app.py", line 125, in display_score_results
+    st.write(f"**Candidate ID:** {row['candidate_id']}")
+                                  ~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'candidate_id'
+2025-04-11 18:58:04,714 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:58:04,715 - ERROR: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 18:58:04,717 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: candidate_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 132, in load_candidate_matches
+    df = pd.read_sql_query("SELECT candidate_id, candidate_name, match_score FROM candidate_matches", conn)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype_backend=dtype_backend,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 177, in main
+    candidates_df = load_candidate_matches()
+  File "C:\Users\megha\Downloads\hack\app.py", line 147, in load_candidate_matches
+    raise RuntimeError(f"Unexpected error loading database: {e}")
+RuntimeError: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 18:58:58,053 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:58:58,054 - ERROR: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 18:58:58,056 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: candidate_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 145, in load_candidate_matches
+    df = pd.read_sql_query("SELECT candidate_id, candidate_name, match_score FROM candidate_matches", conn)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype_backend=dtype_backend,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 175, in main
+    candidates_df = load_candidate_matches()
+  File "C:\Users\megha\Downloads\hack\app.py", line 160, in load_candidate_matches
+    raise RuntimeError(f"Unexpected error loading database: {e}")
+RuntimeError: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 18:59:22,170 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:59:22,171 - ERROR: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 18:59:22,173 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: candidate_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 145, in load_candidate_matches
+    df = pd.read_sql_query("SELECT candidate_id, candidate_name, match_score FROM candidate_matches", conn)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype_backend=dtype_backend,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 175, in main
+    candidates_df = load_candidate_matches()
+  File "C:\Users\megha\Downloads\hack\app.py", line 160, in load_candidate_matches
+    raise RuntimeError(f"Unexpected error loading database: {e}")
+RuntimeError: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 18:59:44,512 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 18:59:44,512 - INFO: Database file size: 12288 bytes
+2025-04-11 18:59:44,516 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 18:59:44,559 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'candidate_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 178, in main
+    display_score_results(candidates_df)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\megha\Downloads\hack\app.py", line 125, in display_score_results
+    st.write(f"**Candidate ID:** {row['candidate_id']}")
+                                  ~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'candidate_id'
+2025-04-11 19:03:26,072 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 19:03:26,073 - INFO: Database file size: 12288 bytes
+2025-04-11 19:03:26,076 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 19:03:26,113 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'candidate_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 178, in main
+    display_score_results(candidates_df)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\megha\Downloads\hack\app.py", line 125, in display_score_results
+    st.write(f"**Candidate ID:** {row['candidate_id']}")
+                                  ~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\series.py", line 1121, in __getitem__
+    return self._get_value(key)
+           ~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'candidate_id'
+2025-04-11 19:05:33,608 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 19:05:33,609 - ERROR: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 19:05:33,610 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: candidate_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 145, in load_candidate_matches
+    df = pd.read_sql_query("SELECT candidate_id, candidate_name, match_score FROM candidate_matches", conn)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype_backend=dtype_backend,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 175, in main
+    candidates_df = load_candidate_matches()
+  File "C:\Users\megha\Downloads\hack\app.py", line 160, in load_candidate_matches
+    raise RuntimeError(f"Unexpected error loading database: {e}")
+RuntimeError: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 19:05:36,386 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 19:05:36,388 - ERROR: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 19:05:36,389 - ERROR: Dashboard initialization failed
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+    ~~~~~~~~~~~^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: candidate_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 145, in load_candidate_matches
+    df = pd.read_sql_query("SELECT candidate_id, candidate_name, match_score FROM candidate_matches", conn)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        sql,
+        ^^^^
+    ...<6 lines>...
+        dtype_backend=dtype_backend,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\megha\Downloads\hack\venv\Lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\megha\Downloads\hack\app.py", line 175, in main
+    candidates_df = load_candidate_matches()
+  File "C:\Users\megha\Downloads\hack\app.py", line 160, in load_candidate_matches
+    raise RuntimeError(f"Unexpected error loading database: {e}")
+RuntimeError: Unexpected error loading database: Execution failed on sql 'SELECT candidate_id, candidate_name, match_score FROM candidate_matches': no such column: candidate_id
+2025-04-11 19:06:01,342 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 19:06:01,343 - INFO: Database file size: 12288 bytes
+2025-04-11 19:06:01,345 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 19:12:38,282 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 19:12:38,283 - INFO: Database file size: 12288 bytes
+2025-04-11 19:12:38,287 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 19:19:20,632 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 19:19:20,633 - INFO: Database file size: 12288 bytes
+2025-04-11 19:19:20,638 - INFO: Successfully loaded 3 candidate matches
+2025-04-11 19:19:32,278 - INFO: Attempting to load database from: C:\Users\megha\Downloads\hack\database\match.db
+2025-04-11 19:19:32,281 - INFO: Database file size: 12288 bytes
+2025-04-11 19:19:32,284 - INFO: Successfully loaded 3 candidate matches
