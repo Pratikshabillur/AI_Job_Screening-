@@ -34,8 +34,4 @@ Refer to `requirements.txt` for the list of dependencies needed for this project
 ## Environment Variables
 Ensure that all necessary environment variables are set as per the `.env` file.
 
-## Contribution
-Feel free to contribute to this project by opening issues or submitting pull requests.
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for more information.
